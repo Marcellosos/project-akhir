@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.utama{
+    width: 100%;
+    height: 100vh;
+
+    background: linear-gradient(360deg, purple,black);
+}
+.utama img{
+    width: 20%;
+    height: 5vh;
+}
+.bks-utama{
+    width: 100%;
+    height: 10vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bks-utama2{
+    width: 80%;
+    height: 8vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.bks-utama h2{
+    width: 20%;
+    height: 5vh;
+    display: flex;
+    justify-content: space-between;
+    color: purple;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.ambayosep{
+    width: 20%;
+    height: 5vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nosurprises{
+    width: 100%;
+    height: 5vh;
+
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    gap: 3%;
+    color: purple;
+}
+.nosurprises img{
+    width: 5%;
+    height: 5vh;
+}
+.kotak{
+    width: 100%;
+    height: 90vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bks-kotak{
+    width: 80%;
+    height: 75vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.profile{
+    width: 90%;
+    height: 71vh;
+
+}
+.profile img{
+    width: 10%;
+    height: 10vh;
+    border-radius: 10000px;
+}
+.bo{
+    width: 100%;
+    height: 25vh;
+
+}
+.text{
+    width: 100%;
+    height: 20vh;
+
+}
+.text h5{
+    font-size: 45px;
+    color: purple;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.text h2{
+    font-size: 20px;
+    color: purple;
+}
+.bks-text{
+    width: 100%;
+    height: 20vh;
+
+}
+.bks-text2{
+    width: 100%;
+    height: 20vh;
+
+}
+.bks-text2 button{
+    width: 20%;
+    height: 5vh;
+    background:linear-gradient(60deg, purple, black);
+    color: purple;
+    font-size: 20px;
+    border-radius: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.kotaks a{
+    font-size: 20px;
+    color: purple;
+}
+.fa{
+   width: 100%;
+   height: 15vh;
+
+}
+.fa img{
+    width: 5%;
+    height: 5vh;
+}
+.fa h4{
+    font-size: 20px;
+    color: rebeccapurple;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.bks-text h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
